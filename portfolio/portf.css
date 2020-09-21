@@ -1,0 +1,59 @@
+*{
+    background-color: black;
+    color:white;
+
+}
+.top{
+
+ background-image: url("https://www.shillingtoneducation.com/content-blog/uploads/2017/11/photo-of-designer-creating-a-website.jpg");
+height: 800px;
+width: 1400px;
+}
+.top {
+text-align:left;
+color:white;
+font-size: 80px;
+text-shadow:3px 3px 5px blue;
+justify-content: center;
+font-style: italic;
+}
+.top section {
+margin-left:0;
+}
+#name img{
+    float: left;
+} 
+@media only screen and (min-width:300px){
+    body{
+       background-color: black;
+       color: white;
+   }
+   
+.fa-facebook{
+    background:darkblue;
+    color:whitesmoke;
+}
+  .fa-gmail {
+      background: red;
+    color: whitesmoke;
+  }
+  .fa-github{
+    background:black;
+    color:whitesmoke;
+  }
+  .fa-twitter{
+    background: #87cefa;
+    color:whitesmoke;
+  }
+    .fa {
+    padding:30px;
+    text-decoration:none;
+    border-radius:50%;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: DarkSalmon;  
+    padding: 10px;
+    margin: 5px 8px;
+  }
